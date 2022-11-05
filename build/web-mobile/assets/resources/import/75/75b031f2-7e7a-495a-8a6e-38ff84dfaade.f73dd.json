@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "75kqinkP9DZIO/geJ8zL7P"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "audio",
+      "rect": [
+        1,
+        40,
+        510,
+        412
+      ],
+      "offset": [
+        0,
+        10
+      ],
+      "originalSize": [
+        512,
+        512
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
